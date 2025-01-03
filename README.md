@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/Breadcrumbstallesdev87">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breadcrumbstallesdev87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breadcrumbstallesdev87&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/tallesdev87">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tallesdev87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallesdev87&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
